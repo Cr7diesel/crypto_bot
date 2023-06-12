@@ -1,1 +1,1 @@
-token = ''
+token = os.getenv('TOKEN')
